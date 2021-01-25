@@ -1,3 +1,2 @@
 This is test One
-
-a new line has been added.
+A new line has been added.
